@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(134, 134, 235);
+}
+
+div{
+    display: flex;
+}
+.ex1 {
+    background-color: rgb(56, 56, 107);
+    width: 200px;
+    margin: 40px 100px;
+}
+
+.ex2 {
+    background-color: rgb(59, 59, 192);
+    width: 200px;
+}
+
+.ex3 {
+    width: 250px;
+    background-color: cornflowerblue;
+    margin: 100px auto;
+}

@@ -1,0 +1,39 @@
+body {
+    background-color: plum;
+}
+
+.ex1 {
+    border: 6px solid rgb(92, 50, 92);
+}
+
+.ex2 {
+    border: 6px solid darkmagenta;
+    border-width: medium;
+}
+
+.ex3 {
+    border: 6px dotted rgb(121, 69, 121);
+}
+
+.ex4 {
+    border: dotted rgb(81, 59, 81);
+    border-width: thick;
+}
+
+.ex5 {
+    border: solid;
+    border-width: 20px 10px;
+    border-color: blueviolet rgb(158, 97, 157) rgb(67, 2, 67) rgb(172, 118, 172);
+}
+
+.ex6 {
+    border-top-style: solid;
+    border-right-style: dotted;
+    border-bottom-style: double;
+    border-left-style: none;
+}
+
+.ex7{
+    border: 6px solid rgb(145, 90, 141);
+    border-radius: 20px;
+}
