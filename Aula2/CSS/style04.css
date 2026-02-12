@@ -1,0 +1,16 @@
+body {
+    background-color: burlywood;
+    justify-items: center;
+}
+
+.el1 {
+    background-color: rgb(87, 30, 30);
+    width: 500px;
+}
+
+.ex1 {
+    width: 500px;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: chocolate;
+}
