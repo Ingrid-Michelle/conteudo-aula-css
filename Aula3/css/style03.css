@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 251, 202);
+    color: rgb(124, 106, 3);
+}
+
+.ex1 {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: rgb(132, 76, 3);
+}
+
+.ex2 {
+    text-shadow: 150px 0px rgb(188, 174, 20);
+    text-decoration-line: overline;
+    text-decoration-style: double;
+    text-decoration-color: chocolate;
+}
+
+.ex3 {
+    text-decoration-line: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(141, 40, 4);
+}
