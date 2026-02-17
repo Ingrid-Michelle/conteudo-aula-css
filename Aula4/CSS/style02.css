@@ -1,0 +1,42 @@
+body {
+background-color: cornsilk;
+}
+
+.link:link {
+    background-color: rgb(82, 3, 34);
+    color:deeppink
+}
+
+.link :hover {
+    color: black;
+    background-color: blueviolet;
+}
+
+.link:active{
+    color: rgb(0, 255, 55);
+    background-color: brown;
+}
+
+.link:visited {
+    color: rgb(152, 41, 0);
+    background-color: beige;
+}
+
+.link-btn:link, .link-btn:visited {
+  /* background-color: midnightblue; */
+  background-color: transparent;
+  border: 3px solid midnightblue;
+  color: rgb(17, 17, 84);
+  padding: 20px 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
+
+.link-btn:hover, .link-btn:active {
+  background-color: midnightblue;
+  color: white;
+  border: 3px solid white;
+  transition: .5s;
+}
