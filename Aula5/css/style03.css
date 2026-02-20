@@ -107,7 +107,7 @@ body{
     color: rgb(246, 246, 246);
 }
 
-/* Exemplo de align-content/justify-co: center */
+/* Exemplo de align-content: center e justify-content: center */
 .ex7{
     display: flex;
     height: 400px;
